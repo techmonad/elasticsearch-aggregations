@@ -1,0 +1,1 @@
+curl -XPOST localhost:9200/analysis_index/tweet/_bulk --data-binary @tweets.json

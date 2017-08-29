@@ -1,0 +1,40 @@
+{ "index": {}}
+{ "id":88872523610693220,"sentiment":"negative", "text":"hello", "user":{"id":1433195174, "name":"a","followers":10, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693221,"sentiment":"positive", "text":"hello", "user":{"id":1433195175, "name":"b","followers":11, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693222,"sentiment":"negative", "text":"hello", "user":{"id":1433195176, "name":"c","followers":12, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693223,"sentiment":"neutral", "text":"hello", "user":{"id":1433195177, "name":"d","followers":13, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693224,"sentiment":"positive", "text":"hello", "user":{"id":1433195178, "name":"e","followers":14, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693225,"sentiment":"positive", "text":"hello", "user":{"id":1433195179, "name":"f","followers":15, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693226,"sentiment":"negative", "text":"hello", "user":{"id":1433195170, "name":"g","followers":1, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693227,"sentiment":"neutral", "text":"hello", "user":{"id":1433195171, "name":"h","followers":2, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693228,"sentiment":"negative", "text":"hello", "user":{"id":1433195172, "name":"i","followers":3, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693229,"sentiment":"positive", "text":"hello", "user":{"id":1433195173, "name":"j","followers":18, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693230,"sentiment":"neutral", "text":"hello", "user":{"id":1433195180, "name":"k","followers":4, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693231,"sentiment":"positive", "text":"hello", "user":{"id":1433195181, "name":"l","followers":5, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693232,"sentiment":"negative", "text":"hello", "user":{"id":1433195182, "name":"m","followers":6, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693233,"sentiment":"positive", "text":"hello", "user":{"id":1433195183, "name":"n","followers":7, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693234,"sentiment":"negative", "text":"hello", "user":{"id":1433195184, "name":"o","followers":8, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693235,"sentiment":"positive", "text":"hello", "user":{"id":1433195185, "name":"p","followers":1, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693236,"sentiment":"neutral", "text":"hello", "user":{"id":1433195186, "name":"q","followers":16, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693238,"sentiment":"positive", "text":"hello", "user":{"id":1433195174, "name":"a","followers":10, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693239,"sentiment":"negative", "text":"hello", "user":{"id":1433195175, "name":"b","followers":11, "followings":404,"language":"en"}}
+{ "index": {}}
+{ "id":88872523610693240,"sentiment":"postive", "text":"hello", "user":{"id":1433195177, "name":"d","followers":13, "followings":404,"language":"en"}}

@@ -1,0 +1,38 @@
+{
+  "mappings": {
+    "_default_": {
+      "dynamic": "strict",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "sentiment": {
+          "type": "string"
+        },
+        "text": {
+          "type": "string"
+        },
+        "user": {
+          "type": "nested",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "followers": {
+              "type": "long"
+            },
+            "followings": {
+              "type": "long"
+            },
+            "language": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}
