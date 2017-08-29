@@ -3,10 +3,10 @@
 
 
 
-####Elasticsearch Setup
+### Elasticsearch Setup
   i) [Download](https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/zip/elasticsearch/2.4.4/elasticsearch-2.4.4.zip) the Elasticsearch 2.4.4 or latest version  and unzip it.
 
-  ii) Run the following command.
+  ii) Run the following command
 
         $ bin/elasticsearch
         
@@ -15,7 +15,7 @@
  Clone and run  app:
   ```
   $ git clone git@github.com:techmonad/elasticsearch-aggregations.git
-  $ cd elasticsearch-aggregation-query/src/main/resources
+  $ cd elasticsearch-aggregations/src/main/resources
   $ sh create_index.sh
   $ sh insert.sh
   $ cd ../../../
